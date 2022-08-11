@@ -1,3 +1,4 @@
+Link to Tableau Public Workbook: https://public.tableau.com/app/profile/verenice.vargas/viz/CitiBikeAnalysis_16601781001040/CitiBikeAnalysis?publish=yes
 ## Background
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
